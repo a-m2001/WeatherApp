@@ -1,2 +1,2 @@
 # WeatherApp
-ReactJS project using WeatherOne API
+ReactJS project using WeatherMap API
